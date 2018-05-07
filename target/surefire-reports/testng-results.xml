@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154886" started-at="2018-05-06T16:51:22Z" finished-at="2018-05-06T16:53:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="154886" started-at="2018-05-06T16:51:22Z" finished-at="2018-05-06T16:53:57Z">
+      <class name="com.accenture.skill.test.TestAccenture01">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setUp" is-config="true" duration-ms="5422" started-at="2018-05-06T22:21:22Z" finished-at="2018-05-06T22:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="5" started-at="2018-05-06T22:21:28Z" finished-at="2018-05-06T22:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="launchURL" duration-ms="74966" started-at="2018-05-06T22:21:28Z" finished-at="2018-05-06T22:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="4" started-at="2018-05-06T22:22:43Z" finished-at="2018-05-06T22:22:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launchURL status=SUCCESS method=TestAccenture01.launchURL()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="searchBox()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="searchBox" duration-ms="24914" started-at="2018-05-06T22:22:43Z" finished-at="2018-05-06T22:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBox -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="0" started-at="2018-05-06T22:22:43Z" finished-at="2018-05-06T22:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:08Z" finished-at="2018-05-06T22:23:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchBox status=SUCCESS method=TestAccenture01.searchBox()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="1" started-at="2018-05-06T22:23:08Z" finished-at="2018-05-06T22:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="selectHome()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="selectHome" duration-ms="6140" started-at="2018-05-06T22:23:08Z" finished-at="2018-05-06T22:23:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHome -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="1" started-at="2018-05-06T22:23:14Z" finished-at="2018-05-06T22:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=selectHome status=SUCCESS method=TestAccenture01.selectHome()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="1" started-at="2018-05-06T22:23:14Z" finished-at="2018-05-06T22:23:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="clickMoreFilters()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="clickMoreFilters" duration-ms="4866" started-at="2018-05-06T22:23:14Z" finished-at="2018-05-06T22:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickMoreFilters -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:19Z" finished-at="2018-05-06T22:23:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickMoreFilters status=SUCCESS method=TestAccenture01.clickMoreFilters()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="kitchenCheckbox()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="kitchenCheckbox" duration-ms="3871" started-at="2018-05-06T22:23:19Z" finished-at="2018-05-06T22:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kitchenCheckbox -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:19Z" finished-at="2018-05-06T22:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:22Z" finished-at="2018-05-06T22:23:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=kitchenCheckbox status=SUCCESS method=TestAccenture01.kitchenCheckbox()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="1" started-at="2018-05-06T22:23:22Z" finished-at="2018-05-06T22:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="showHomes()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="showHomes" duration-ms="954" started-at="2018-05-06T22:23:22Z" finished-at="2018-05-06T22:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showHomes -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:23Z" finished-at="2018-05-06T22:23:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=showHomes status=SUCCESS method=TestAccenture01.showHomes()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:23Z" finished-at="2018-05-06T22:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="clickPrice()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="clickPrice" duration-ms="11485" started-at="2018-05-06T22:23:23Z" finished-at="2018-05-06T22:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPrice -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:35Z" finished-at="2018-05-06T22:23:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickPrice status=SUCCESS method=TestAccenture01.clickPrice()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setLowerPrice()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setLowerPrice" duration-ms="10571" started-at="2018-05-06T22:23:35Z" finished-at="2018-05-06T22:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLowerPrice -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:35Z" finished-at="2018-05-06T22:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:45Z" finished-at="2018-05-06T22:23:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setLowerPrice status=SUCCESS method=TestAccenture01.setLowerPrice()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setPages()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="setPages" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:45Z" finished-at="2018-05-06T22:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPages -->
+        <test-method status="PASS" signature="verifyTopHomes()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="verifyTopHomes" duration-ms="10634" started-at="2018-05-06T22:23:45Z" finished-at="2018-05-06T22:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTopHomes -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="shutDown" is-config="true" duration-ms="1016" started-at="2018-05-06T22:23:56Z" finished-at="2018-05-06T22:23:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-05-06T22:23:56Z" finished-at="2018-05-06T22:23:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTopHomes status=SUCCESS method=TestAccenture01.verifyTopHomes()[pri:0, instance:com.accenture.skill.test.TestAccenture01@6cd8737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.accenture.skill.test.TestAccenture01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
